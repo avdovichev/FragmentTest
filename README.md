@@ -15,7 +15,7 @@ How to reproduce crash:
 2. See section fragments in tab layout
 3. Click right arrow in action bar to open Second frament
 4. See section fragment is opened
-5. Rorate device so that screen orientation changed
+5. Rotate device so that screen orientation changed
 6. See that application crashed because onConfigurationChanged was called for SecondFragment with destroyed view
 
 You may filter Logcat output for AXFT to get log lines for key lifecycle events
