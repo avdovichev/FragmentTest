@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidxFragmentsTest</string>
+    <string name="section_title">Section %1$d</string>
+    <string name="go_next">Next fragment</string>
+</resources>
